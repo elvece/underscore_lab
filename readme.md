@@ -1,10 +1,12 @@
-#Underscore Lab
+##Underscore Lab
+
+***This repo contains my solution to the following exercise:***
 
 You're going to recreate some of the functionality of the popular JS library Underscore.js.  Write all of the following methods inside of an `_` object.
 
 **Fork this repo, push your code to your fork, and submit the link to your fork on students.gschool**
 
-##Part 1
+###Part 1
 
 * average - returns the average value in a given array
 
@@ -93,7 +95,7 @@ _.pluck(stooges, 'name');
 => ["moe", "larry", "curly"]
 ```
 
-##Part 2
+###Part 2
 
 * each - iterates over an array and calls a given function with each element
 
